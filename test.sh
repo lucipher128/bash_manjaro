@@ -1,6 +1,6 @@
 #! /bin/bash
 
-test= "salope "
+test= "saluut "
 
 
 echo "$test"
